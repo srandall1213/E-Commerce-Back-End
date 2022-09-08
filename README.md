@@ -9,3 +9,4 @@ My motivation in completing this project was to apply what I learned this week a
 ![E-Commerce Backend](./images/screenshot.png)
 
 ## Video Walk-through Link
+https://drive.google.com/file/d/156k1qt9bpZWKfKK7R_DReEtg2YCt20b0/view
